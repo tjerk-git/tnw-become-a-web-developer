@@ -20,7 +20,6 @@ Your inventory should consist of:
 
 Your timeline for learning should go a bit like this:
 
-**LVL 1                    LVL2                LVL3                LVL4              LVL 5**
 HTML -> CSS -> Javascript -> Frameworks -> Back-end -> Dev Ops
 
 Alright, good to go? Lets start with Quest 1.
