@@ -35,9 +35,8 @@ This is your main source for information, don't go anywhere else.
 ### Main quests
 - Find and use all the HTML elements and use them together (40 XP)
 - Write accessible and semantic HTML (50 XP)
-- Try recreating a simple website with just HTML (1000 XP)
+- Try creating a simple website with just HTML (1000 XP)
 
-Your website: https://nos.nl/
 
 ### Side quests
 - Try to align everything with flexbox (CSS)- https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
